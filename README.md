@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou elaborando projetos de Ciência de Dados **Imersão em Data Scientist**
 
-- 🌱 Atualmente estou aprendendo **Mais sobre Python e Machine learn**
+- 🌱 Atualmente estou aprendendo **Mais sobre Deep learning, MLOps, Estatística**
 
-- 💬 Me pergunte sobre **Python, Estatística, negócios**
+- 💬 Me pergunte sobre **Python, Estatística, negócios, Machine Learning, Clouds, SQL**
 
 - 📫 Você me acha através do e-mail **contatothvieira@gmail.com**
 
