@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Thiago Ramalho Vieira</h1>
 <h3 align="center">Apaixonado pela ciência de dados</h3>
 
-- 🔭 Atualmente estou elaborando projetos de Ciência de Dados **Imersão em Data Scientist**
+- 🔭 Atualmente estou atuando como Cientista de dados Pleno
 
 - 🌱 Atualmente estou aprendendo **Mais sobre Deep learning, MLOps, Estatística**
 
