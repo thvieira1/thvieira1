@@ -3,9 +3,9 @@
 
 - 🔭 Atualmente estou atuando como Cientista de dados Pleno
 
-- 🌱 Atualmente estou aprendendo **Mais sobre Deep learning, MLOps, Estatística**
+- 🌱 Atualmente estou aprendendo **Generative AI, LLM and NLP**
 
-- 💬 Me pergunte sobre **Python, Estatística, negócios, Machine Learning, Clouds, SQL**
+- 💬 Me pergunte sobre **Python, Estatística, MLOps, negócios, Machine Learning, Clouds, SQL**
 
 - 📫 Você me acha através do e-mail **contatothvieira@gmail.com**
 
