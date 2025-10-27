@@ -1,15 +1,15 @@
-<h1 align="center">Oi 👋, Eu sou o Thiago Ramalho Vieira</h1>
-<h3 align="center">Apaixonado pela ciência de dados</h3>
+<h1 align="center">Hi 👋, I'm Thiago Vieira</h1>
+<h3 align="center">Passionate to solve business problem using AI, Machine Learning and Statistic </h3>
 
-- 🔭 Atualmente estou atuando como Cientista de dados Pleno
+- 🔭 Currently working as a Data Scientist at Nestlé
 
-- 🌱 Atualmente estou aprendendo **Generative AI, LLM and NLP**
+- 🌱 Currently focus to brush upon in AI Engineer technichs **Generative AI, LLM and NLP**
 
-- 💬 Me pergunte sobre **Python, Estatística, MLOps, negócios, Machine Learning, Clouds, SQL**
+- 💬 You can ask me about it **Python, PySpark, Statistics, MLOps, Business, Machine Learning, Clouds, Git, Databricks, Azure,  SQL**
 
-- 📫 Você me acha através do e-mail **contatothvieira@gmail.com**
+- 📫 You can find me through email **contatothvieira@gmail.com**
 
-- 📄 Fui fundada por Thiago Vieira e aqui estão as habilidades que me criaram [https://www.linkedin.com/in/thiagoramalhovieira](https://www.linkedin.com/in/thiagoramalhovieira)
+- 📄 I was founded by Thiago V. and here is the skills that created me [https://www.linkedin.com/in/thiagoramalhovieira](https://www.linkedin.com/in/thiagoramalhovieira)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
