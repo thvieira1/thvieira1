@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago Vieira</h1>
 <h3 align="center">Passionate to solve business problem using AI, Machine Learning and Statistic </h3>
 
-- 🔭 Currently working as a Data Scientist at Nestlé
+- 🔭 Currently working as a Senior Data Scientist at Farmers Insurance
 
 - 🌱 Currently focus to brush upon in AI Engineer technichs **Generative AI, LLM and NLP**
 
